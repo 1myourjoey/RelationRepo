@@ -1,0 +1,7 @@
+insert into lecture_info (lec_start_date,lec_fin_date,lec_name,lec_ex) values ('2024-05-07','2024-08-07','생활코딩 HTML','HTML 기초 강의');
+insert into lecture_info (lec_start_date,lec_fin_date,lec_name,lec_ex) values ('2024-05-07','2024-08-07','생활코딩 CSS','CSS 기초 강의');
+insert into lecture_info (lec_start_date,lec_fin_date,lec_name,lec_ex) values ('2024-05-07','2024-08-07','생활코딩 JavaScript','JavaScript 기초 강의');
+insert into lecture_info (lec_start_date,lec_fin_date,lec_name,lec_ex) values ('2024-05-07','2024-08-07','생활코딩 Python','Python 기초 강의');
+insert into lecture_info (lec_start_date,lec_fin_date,lec_name,lec_ex) values ('2024-05-07','2024-08-07','생활코딩 PHP','PHP 기초 강의');
+insert into lecture_info (lec_start_date,lec_fin_date,lec_name,lec_ex) values ('2024-05-07','2024-08-07','생활코딩 MySQL','SQL 기초 강의');
+insert into lecture_info (lec_start_date,lec_fin_date,lec_name,lec_ex) values ('2024-05-07','2024-08-07','생활코딩 Ajax','Ajax 기초 강의');
